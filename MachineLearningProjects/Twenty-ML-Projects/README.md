@@ -1,0 +1,1 @@
+Different Macine learning projects to learn the how-tos
