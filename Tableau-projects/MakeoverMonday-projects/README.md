@@ -1,5 +1,5 @@
 ## 1) Dark Web Price Index 2021.
-#### <a href="https://www.makeovermonday.co.uk/data/" target="_blank">Week 38 2021</a>: #MakeoverMonday Tableau Viz. 
+#### <a href="https://www.makeovermonday.co.uk/data/" target="_blank" rel="noopener">Week 38 2021</a>: #MakeoverMonday Tableau Viz. 
 
 | **Original** | **MINE** |
 | ------------| ---------- |
